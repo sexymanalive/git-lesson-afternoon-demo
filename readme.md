@@ -32,4 +32,10 @@ git fetch origin branch-name
 
 git merge branch-name
 
+# working stash 
+git stash 
+git stash list 
+git stash pop 
+git stash apply stash-id 
+
 ```
