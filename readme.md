@@ -17,4 +17,10 @@ git commit -m "message"
 git commit -am "message" 
 git commit --amend 
 
+
+# to get the file updates from remote repo 
+git pull 
+git pull origin branch-name
+
+
 ```
