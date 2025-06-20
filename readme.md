@@ -17,4 +17,6 @@ git commit -m "message"
 git commit -am "message" 
 git commit --amend 
 
+git push -u origin master 
+git push 
 ```
