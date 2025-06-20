@@ -19,8 +19,17 @@ git commit --amend
 
 
 # to get the file updates from remote repo 
+# get files from repo and update it in local 
 git pull 
 git pull origin branch-name
 
+# update .git directory 
+git fetch 
+git fetch origin branch-name 
+ 
+
+
+
+git merge branch-name
 
 ```
