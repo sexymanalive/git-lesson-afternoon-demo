@@ -7,4 +7,14 @@
 ```bash 
 git --version 
 gh --version 
+
+
+# files that need to be tracked 
+
+git add  . 
+git commit -m "message" 
+
+git commit -am "message" 
+git commit --amend 
+
 ```
